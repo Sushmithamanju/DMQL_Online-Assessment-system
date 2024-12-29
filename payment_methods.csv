@@ -1,0 +1,6 @@
+"payment_method_id,method_name,description"
+"1,Credit Card,""Visa, MasterCard, etc."""
+"2,PayPal,Online payment system."
+"3,Bank Transfer,Direct bank transfer."
+"4,Cash on Delivery,Pay cash on delivery."
+"5,Gift Card,Redeemable gift cards."
